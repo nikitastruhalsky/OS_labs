@@ -1,0 +1,5 @@
+/home/nikita/CLionProjects/testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/CLionProjects/testing/cmake-build-debug/CMakeFiles/Number.dir
+/home/nikita/CLionProjects/testing/cmake-build-debug/CMakeFiles/testing.dir
+/home/nikita/CLionProjects/testing/cmake-build-debug/CMakeFiles/vector.dir
+/home/nikita/CLionProjects/testing/cmake-build-debug/CMakeFiles/edit_cache.dir

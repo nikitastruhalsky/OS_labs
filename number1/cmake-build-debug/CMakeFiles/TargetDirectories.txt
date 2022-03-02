@@ -1,0 +1,3 @@
+/home/nikita/CLionProjects/number1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/CLionProjects/number1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/CLionProjects/number1/cmake-build-debug/CMakeFiles/number1.dir

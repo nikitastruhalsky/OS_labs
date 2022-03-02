@@ -1,0 +1,5 @@
+# ninja log v5
+2	116	1646244623700662060	CMakeFiles/Number.dir/home/nikita/CLionProjects/number1/library.cpp.o	aa2702bf72f70f8
+116	144	1646244623732665055	libNumber.a	2f5684565b49bf8b
+0	349	1646244623936684145	CMakeFiles/vector.dir/library.cpp.o	a595784b7a1a2109
+350	542	1646244624124701743	libvector.so	332808d9638e4b3
