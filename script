@@ -1,0 +1,16 @@
+#!/bin/bash
+
+mkdir files
+
+g++ -c Numb/numb_library.cpp -o files/numb_library.o
+ar rc files/numb_library.a files/numb_library.o
+
+echo building vector
+g++ -c -I Numb Vect/vect_library.cpp -o files/vect_library.o
+g++ files/numb_library.a files/vect_library.o -shared -o files/vect_library.so
+
+echo building main
+g++ -o files/test Test/main.cpp files/numb_library.a files/vect_library.so -I Numb -I Vect
+./files/test
+
+rm -R files
